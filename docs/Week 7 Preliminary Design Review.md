@@ -20,7 +20,7 @@ The PDR shall include, but is not limited to the following recommend content (no
 : Present major subsystems represented by block diagram and integration links 
 **⚠️ CRITICAL NOTE:**  
 (IT IS POINTLESS IF THE PANEL CANNOT SEE WHAT IS BEING PRESENTED ESPECIALLY FOR COMPLICATED DIAGRAMS SQUEEZED INTO 1 SLIDE!)
-Design documents shall include:
+: Design documents shall include:
 - Software algorithm design and logic diagram
 - Electrical & Electronics Design and Power Budget
 - Mechanical CAD, Fabrication and assembly plan
